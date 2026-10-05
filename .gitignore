@@ -1,0 +1,13 @@
+# Windows download metadata
+*Zone.Identifier
+
+# Solid Edge temp / backups
+~*
+*.bak
+Backup/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
